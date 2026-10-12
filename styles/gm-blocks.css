@@ -11,6 +11,20 @@
   color: #1a1a1a;
 }
 
+/* Give every content block explicit text colour and font */
+.gm-readaloud,
+.gm-voice,
+.gm-prompts,
+.gm-check,
+.gm-npc,
+.gm-branch,
+.gm-handout,
+.gm-connections {
+  color: #1a1a1a;
+  font-family: Georgia, serif;
+  line-height: 1.6;
+}
+
 .gm-box .gm-label {
   font-weight: bold;
   color: #333333;
