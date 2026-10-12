@@ -1,0 +1,16 @@
+{
+  "id": "gm-page-blocks",
+  "title": "GM Page Blocks",
+  "description": "Consistent styling for session prep journal blocks: read-aloud, voice, prompts, secret notes, checks, NPCs and more.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "url": "https://github.com/ink-and-ember-forge/foundry-journal-styles/",
+  "manifest": "https://raw.githubusercontent.com/ink-and-ember-forge/foundry-journal-styles/main/module.json",
+  "download": "https://github.com/ink-and-ember-forge/foundry-journal-styles/releases/download/v0.1.0/gm-page-blocks.zip",
+  "styles": [
+    "styles/gm-blocks.css"
+  ]
+}
