@@ -9,7 +9,7 @@
   },
   "url": "https://github.com/ink-and-ember-forge/foundry-journal-styles/",
   "manifest": "https://raw.githubusercontent.com/ink-and-ember-forge/foundry-journal-styles/main/module.json",
-  "download": "https://github.com/ink-and-ember-forge/foundry-journal-styles/releases/download/v0.1.1/gm-page-blocks.zip",
+  "download": "https://github.com/ink-and-ember-forge/foundry-journal-styles/releases/download/v0.1.2/gm-page-blocks.zip",
   "styles": [
     "styles/gm-blocks.css"
   ]
