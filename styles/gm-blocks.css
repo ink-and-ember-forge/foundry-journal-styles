@@ -30,6 +30,22 @@
   color: #333333;
 }
 
+/* Social stat block: Pathfinder-style creature layout */
+.gm-sb { margin: 0; padding: 0 8px; font-family: Arial, Helvetica, sans-serif; font-size: 0.95em; line-height: 1.4; color: #1a1a1a; background: #fbf8f0; }
+.gm-sb-head { display: flex; justify-content: space-between; align-items: baseline; padding-top: 6px; padding-bottom: 2px; border-bottom: 2px solid #9a2a2a; font-weight: bold; text-transform: uppercase; font-size: 1.2em; }
+.gm-sb-head .gm-sb-level { font-size: 0.85em; }
+.gm-sb-traits { padding-top: 4px; padding-bottom: 2px; }
+.gm-trait { display: inline-block; padding: 1px 5px; margin-right: 3px; font-size: 0.72em; font-weight: bold; line-height: 1.4; text-transform: uppercase; color: #ffffff; border-radius: 2px; }
+.gm-trait-rarity { background: #6c3a7c; }
+.gm-trait-align { background: #2e5f8f; }
+.gm-trait-size { background: #3d7a2f; }
+.gm-trait-other { background: #77773a; }
+.gm-sb-desc { padding-bottom: 2px; }
+.gm-sb-row { padding-left: 1em; text-indent: -1em; padding-bottom: 2px; }
+.gm-sb-para { text-indent: 1em; padding-bottom: 2px; }
+.gm-sb-label { font-weight: bold; }
+.gm-sb-rule { border-top: 1px solid #9a2a2a; margin-top: 4px; padding-top: 4px; }
+
 /* Scene-at-a-glance header */
 .gm-header {
   background: #2f2a36;
