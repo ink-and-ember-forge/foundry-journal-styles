@@ -2,7 +2,7 @@
   "id": "gm-page-blocks",
   "title": "GM Page Blocks",
   "description": "Consistent styling for session prep journal blocks: read-aloud, voice, prompts, secret notes, checks, NPCs and more.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
